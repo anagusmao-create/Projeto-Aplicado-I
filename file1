@@ -1,0 +1,7 @@
+echo "# Projeto-Aplicado-I" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/anagusmao-create/Projeto-Aplicado-I.git
+git push -u origin main
