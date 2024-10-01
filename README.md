@@ -20,3 +20,7 @@ Contente
 A seguinte atividade do Airbnb está incluída neste conjunto de dados de Nova York:
 
 Listagens, incluindo descrições completas e pontuação média de avaliações Avaliações, incluindo ID exclusivo para cada avaliador e comentários detalhados Calendário, incluindo ID de listagem e preço e disponibilidade para aquele dia
+
+Proposta analítica
+Tendo em vista os dados expostos, o objetivo da análise é entender as principais características que levam um usuário a atribuir uma boa nota ao host, tais como variáveis que mais se relacionam com este atributo e quais as características mais importantes, a partir dos dados, para tomada de decisão da reserva. A partir de então, serão utilizados algoritmos de correlação, técnicas de clusterização e score, além da descrição geral da base utilizada priorizando suas principais características, tal como a mesma é dividida estatisticamente. 
+
